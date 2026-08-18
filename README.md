@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CuriousGuy60
+- 👋 Hi, I’m @CuriousGuy60 (Andy Kuo)
 - 👀 I’m interested in mathematics, programming, learning new practical&interesting things
-- 🌱 I’m currently learning Github, Rainmeter, .dll, windows system
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Him
 - ⚡ Fun fact: I had once solved a 3x3 rubik's cube in 14 secs.
 
 <!---
